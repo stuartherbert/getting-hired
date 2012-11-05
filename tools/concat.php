@@ -14,13 +14,9 @@ function dieMsg($msg)
 	exit(1);
 }
 
-if (!isset($argv[1]))
-{
-	echo "*** usage: concat <path-to-book>\n";
-	exit(1);
-}
+$pathToBook = realpath(__DIR__ . '/..');
 
-$tocFilename = str_replace('//', '/', $argv[1] . "/toc.json");
+$tocFilename = str_replace('//', '/', $pathToBook . "/toc.json");
 
 if (!file_exists($tocFilename))
 {
@@ -28,16 +24,16 @@ if (!file_exists($tocFilename))
 }
 
 // our table of contents tells us what pages go in what order
-$json = json_decode(file_get_contents($argv[1] . "/toc.json"));
+$json = json_decode(file_get_contents($pathToBook . "/toc.json"));
 $toc = $json->contents;
 
 // this is the file that we will write to
-$output = fopen($argv[1] . '/one-page.md', 'w+');
+$output = fopen($pathToBook . '/one-page.md', 'w+');
 
 foreach ($toc as $pageName)
 {
 	// where is the source page?
-	$page['MdFilename'] = $argv[1] . "/$pageName.md";
+	$page['MdFilename'] = $pathToBook . "/$pageName.md";
 
 	// load the HTML version of the page
 	// we don't add this to the page[] array because we don't want to
@@ -45,7 +41,7 @@ foreach ($toc as $pageName)
 	$pageMarkdown = file_get_contents($page['MdFilename']);
 
 	// strip out the YAML at the top of the file
-	$pageMarkdown = preg_replace('/---.*---/m', '', $pageMarkdown);
+	$pageMarkdown = preg_replace('/---.*---/sU', '', $pageMarkdown);
 
 	// write the output to the concat file
 	fwrite($output, $pageMarkdown . "\n");
