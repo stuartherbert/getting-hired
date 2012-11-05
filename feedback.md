@@ -20,4 +20,4 @@ Please write to me with your success stories, your horror stories, and your feed
 _Stuart Herbert<br/>
 Reading, Berkshire<br/>
 United Kingdom<br/>
-October 2012_
+November 2012_

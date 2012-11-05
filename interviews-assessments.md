@@ -90,7 +90,7 @@ During your interview, you will probably forget many of the questions that you n
 
 ## During The Interview Or Assessment
 
-The best advice that I can give you is to remind you that you are there on merit.  Have some confidence in your own skills and experience to date.  It will calm you down and help you think clearer.  Your interviewer will spot your confidence and react well to it.  Don't be over-confident or belligerent; few employers value arrogance in their workforce.
+The best advice that I can give you is to remind you that you are there on merit.  Have some confidence in your own skills and experience to date.  It will calm you down and help you think more clearly.  Your interviewer will spot your confidence and react well to it.  Don't be over-confident or belligerent; few employers value arrogance in their workforce.
 
 Your interviewer may greet you with a handshake, but he may not.  If he does, make sure that you make eye contact, and don't try and crush his hand.  If he doesn't offer to shake your hand, don't take it personally.  Not everyone is comfortable with human contact.
 

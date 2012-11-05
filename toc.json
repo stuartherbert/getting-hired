@@ -24,6 +24,7 @@
         "feedback",
         "authors",
         "copyright",
-        "licence"
+        "licence",
+	"production-notes"
     ]
 }
