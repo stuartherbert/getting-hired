@@ -13,7 +13,12 @@ At this point, it's worth me spending a moment to explain what recruiting agenci
 
 Recruitment agencies are outside firms who go and find candidates for employers.
 
-Do not confuse recruitment agencies with employment agencies.  The main difference lies in who ends up being your employer.  If you get a job through a recruitment agency, you become an employee of the employer.  If you get a job through an employment agency, you become an employee of the employment agency.  There are employment agencies out there who provide IT support people to firms, but professional engineering roles are normally found through recruitment agencies.
+Do not confuse recruitment agencies with employment agencies.  The main difference lies in who ends up being your employer.
+
+* If you get a job through a recruitment agency, you become an employee of the employer.
+* If you get a job through an employment agency, you become an employee of the employment agency.
+
+There are employment agencies out there who provide IT support people to firms, but professional engineering roles are normally found through recruitment agencies.
 
 ## Why Do Employers Use Recruitment Agencies?
 
@@ -47,7 +52,9 @@ However, if recruitment agencies weren't useful and performing a necessary role,
 
 ## Picking A Recruitment Agency
 
-As in all walks of life, there are good agencies and there are bad agencies, and it can be difficult even for industry veterans to tell them apart at first.  I recommend checking to make sure that the agency is a member of [The Recruitment & Employment Confederation](http://www.rec.uk.com/) - the industry's only recognised trade body for recruiting agencies.
+As in all walks of life, there are good agencies and there are bad agencies, and it can be difficult even for industry veterans to tell them apart at first.  I recommend checking to make sure that the agency is a member of [The Recruitment & Employment Confederation](http://www.rec.uk.com/) - the industry's only recognised trade body for recruiting agencies.  You should also use Google to find out what other people have recently said about the agency.  If you're not happy with what you find, there are usually other agencies out there advertising the same role or similar ones.
+
+The one exception to the rule is when an agency has an exclusive contract with an employer.  In this situation, the employer has decided to use a single agency for all recruitment, and all applications _have_ to be submitted via that agency.  If this is the case, you should be able to confirm this from the employer's website, or by telephoning the employer.
 
 From an employer's point of view, employers generally do not like agencies who send them unsolicited or inappropriate applications (known as 'wallpapering CVs').  Once an agency has done this with your CV, it can be very difficult for you to get those employers to look at your CV, because the employer hasn't agreed payment terms with the agency, and doesn't want the hassle of an aggressive agency trying to invoice for money that the employer hasn't agreed to pay.
 

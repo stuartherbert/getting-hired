@@ -54,6 +54,22 @@ If an employer gets an application from two people who have studied at the same 
 
 _Are you broadening your knowledge by attending events?_
 
+## Wider Reading
+
+Ours is a rapidly-changing industry, with new trends, solutions and opportunities arising all the time.  Your transferable skills will never go out of date, but the languages you program in, and the tools in your toolbox need to be at the cutting edge if you're going to keep up.
+
+One of the things that surprises people when they join the computing industry is how little formal training is provided by employers.  There are a few reasons for this.
+
+* My generation of engineers is mostly self-taught, and taking responsibility for our own lifelong learning is an ingrained habit for us.
+* We see what we do as a vocation, not a job; we go home at the end of the day and carry on programming.
+* We find most formal training courses to be highly simplistic, teaching skills that will fade before you find them useful.
+
+As a consequence, we're always reading as much as we can fit in, and sharing articles and stories that we enjoy via social network sites such as Twitter.  When you come to interview, we don't expect you to have used everything that we use in our products and services, but we'll be disappointed if you've never heard of most of what we use.
+
+If you're not sure where you should start, I maintain a [recommended reading list](https://github.com/stuartherbert/DigitalEngineersReadingList) on GitHub.
+
+_Are you doing enough reading to keep up to date?_
+
 ## Maturing As A Person
 
 Many employers prefer to hire graduates not because of what they've learned at university, but because several years at university gives people the time to figure out who they are, what they want, and how to be a bit more mature.  Most of this happens through the passage of time and osmosis.  There's something you can do to help.

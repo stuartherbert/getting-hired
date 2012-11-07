@@ -40,6 +40,8 @@ Salaries are always one of the trickiest subjects in recruitment, and that inclu
 
 As a result, sometimes 'competitive salary' actually means 'disappointing salary', and 'up to XX' turns out to be an inflated figure that you can't actually get if you get the job.  Don't wait until you reach the job offer stage to find out if this is the case; always contact the employer to double-check the salary on offer before applying.  Keep a record of their answer in case you reach the job offer stage.
 
+You'll find advice on what size of salary to aim for later in this book.
+
 ## Pro-Rata Salaries
 
 Adverts for part-time roles will normally say 'up to XX pro-rata'.  If they do, XX is the annual salary that a full-time employee would earn, and the salary for the part-time role will be the equivalent hourly rate.
@@ -49,3 +51,5 @@ For example, if the full-time role (assuming 40 hours a week) has a £20,000 sal
 ## How To Meet Employers
 
 As well as advertising roles online, some employers will go out and attend tech conferences and meet-ups, both to spread the word that they're hiring, and on the chance that they will meet people that they would like to hire.  If you're looking for a job, it's a good idea to start going along to these events.  They are great opportunities to find out more about a job before you apply, and if you impress an employer, he'll remember you when he receives your application and possibly bump you up towards the front of the interview list.
+
+If you get the chance to speak at one of these events, you should take it.  There might be an employer in the audience who is looking for someone who knows about the topic that you talk about; and even if there isn't, most employers will value this experience if they find it on your CV.

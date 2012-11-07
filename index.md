@@ -2,14 +2,14 @@
 layout: book-Getting-Hired
 title: Getting Hired
 prev: '&nbsp;'
-next: '<a href="preface.html">Next: Preface</a>'
+next: '<a href="foreword.html">Next: Foreword</a>'
 ---
 
 # Getting Hired
 
 _Advice on how to approach your first job interview after graduating as a software developer in the UK_
 
-By Stuart Herbert.
+By Stuart Herbert
 
 ## Editions
 

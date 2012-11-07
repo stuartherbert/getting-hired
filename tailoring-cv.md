@@ -16,6 +16,8 @@ The CV that you submit with any application is a version of your master CV, tail
 
 ## What Is A CV?
 
+'CV' is short for _curriculum vitæ_.  It is a Latin expression that (according to Wikipedia) roughly means _course of \[my\] life_.
+
 A CV is a record of your career and employment to date.  It is a summary, and it is written as a list.  It is the nature of a CV to be very terse.  It's extremely hard to get across your strengths for a role in a CV, although in this chapter I'll show you that there are things that you can do to help.  CVs are there mostly to tell employers what you have done.  That isn't the same as telling an employer what you can do.
 
 A covering letter, on the other hand, is a letter from you to the employer, to tell the employer exactly why you are the right person for the job.  You should always include a covering letter with your CV when you apply for a job.  Together, they can be a powerful tool to persuade an employer that he should interview you for a role.
@@ -66,6 +68,12 @@ Use as little colour as possible.  Black and white might be boring, but not ever
 
 If you are submitting a printed copy of your CV, consider use 100 gsm paper.  Standard printer and photocopier paper is 80 gsm, and often doesn't feel nice in the hand.  100 gsm paper is a little heavier, and often has a slightly fibrous feel that is more enjoyable to touch.  It also isn't as glossy as 80 gsm paper, which makes it look better too.
 
+## Personal Details
+
+Make sure that your name and contact details (email address and/or telephone number) are at the very top of your CV.  Your CV may get separated from your covering letter; you cannot rely on an employer having both to hand when he reviews your application.  If you don't provide your details, then the employer has no way of getting in touch if he wishes to interview you.
+
+It's routine for recruitment agencies to remove contact details from CVs before forwarding them on to employers, to prevent employers trying to cut out the middleman.  Don't use that as an excuse to leave your details off yourself; one day you might be applying directly for a role and forget to put the details back on!
+
 ## Things Employers Don't Want To See
 
 When you're just starting out into the industry, your CV can look awfully thin.  Even so, a thin CV is much better than some of the things that people do to try and pad out their CV and fill up all that empty paper.
@@ -86,9 +94,9 @@ _Don't waste a lot of space on your A level results._  In the computing industry
 
 _You probably don't need to mention your GCSE results at all._  As with A levels, GCSEs are seen mostly as a stepping stone to further education.  If you do mention them, my advice is to simply say something like '10 GCSEs, 7 A* and 3 As' or something like that.
 
-Finally, more and more employers will bin a CV that contains no computing experience outside of what you've studied at school and at university.  It's very difficult for a university course alone to bring you up to the minimum standard that you need to hold down even a junior programmer's job these days, and many university courses teach research subjects that it's difficult to apply in your average firm.  Even practical courses specifically geared for industry aren't enough, because through your course alone you simply won't have clocked up enough programming hours.
+Finally, more and more employers will bin a CV that contains no computing experience outside of what you've studied at school and at university.  It's very difficult for a university course alone to bring you up to the minimum standard that you need to hold down even a junior programmer's job these days, and many university courses teach research subjects that are difficult to apply in your average firm.  Even practical courses specifically geared for industry aren't enough, because through your course alone you simply won't have clocked up enough programming hours.
 
-I'll expand on this a lot more in Part 2 of this book.
+In this day and age of opportunity, there really is no excuse for submitting a CV that contains no outside computing experience at all.  You need to be doing way more than just your coursework if you want to be ready to join the computing industry after you graduate.  I'll expand on this a lot more in Part 2 of this book.
 
 ## What About Interests and Hobbies?
 

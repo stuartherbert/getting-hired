@@ -18,6 +18,8 @@ My thanks to Tessa-Marie Coopey and Steffan Harris for reviewing the early draft
 
 I'd also like to thank Dr. Peter Gradwell for introducing me to the Department of Computing at Aberystwyth University, and Dr. Adrian Shaw and Mr. Richard Shipman for inviting me back each year to teach their 2nd year students once more.
 
+I'm grateful to Jeremy Coates for providing the foreword to this book, and also for the many discussions we've had over the years about what we need to do to help prepare the next generation of digital engineers.  This book is hopefully just the first step.
+
 My partner-in-crime at Gregynog each year is the formidable Bryn Salisbury.  Time has prevented him from being the co-author of this edition of this book, but I sincerely hope that will change for the 2nd edition, as he is the source of much of the advice in this book.
 
 Most importantly, my thanks to my wife Kristi for all of her help and encouragement throughout this project.  Although she doesn't join us at Gregynog, she's giving up those weekends too because I'm not home with her.  I couldn't have done this without her.

@@ -61,7 +61,7 @@ Some employers will provide lunch if you're going to be there the whole day.  If
 
 ## Travelling For Interview And Assessment
 
-Make sure that you know where your interview will be, and how you will get there.  Being late for an interview normally makes a terrible first impression, and if the employer is interviewing several candidates on the same day, he may not be able to reschedule your interview for later the same day.
+Make sure that you know where your interview will be, and how you will get there.  Being late for an interview makes a terrible first impression, and if the employer is interviewing several candidates on the same day, he may not be able to reschedule your interview for later the same day.
 
 If you are travelling by public transport, you need to allow time for any train and / or bus changes that you need to make.  You should consider arriving on an earlier train; that way, if your train is delayed at all, there's still a good chance of making your interview on time.
 
@@ -94,11 +94,13 @@ The best advice that I can give you is to remind you that you are there on merit
 
 Your interviewer may greet you with a handshake, but he may not.  If he does, make sure that you make eye contact, and don't try and crush his hand.  If he doesn't offer to shake your hand, don't take it personally.  Not everyone is comfortable with human contact.
 
+If you're wearing a suit, remember to unbutton your jacket before you sit down.  It's normally okay to remove your jacket if you prefer, but do resist any temptation to loosen your tie until you've left the premises and are on your way back home.
+
 When it comes to what you will be asked, interview formats and questions vary widely from employer to employer.
 
 Many employers will ask you to talk about the contents of your CV, and may ask specific questions about what you've written.  Be prepared to explain and defend everything that you've put in your CV and covering letter.  An employer will be looking for further details, and how deep your understanding is.  If an employer catches you out with outright lies on your CV, don't be surprised if he ends the interview there and then.
 
-If you're asked a question that you don't know the answer to, it is perfectly alright to say that you don't know.  Trying to bluster your way through answering a question is often the worst thing that you can do.  Your interviewer will pick this up, and he will see through your bull.  If you say that you don't know, he may then ask you to attempt to answer the question anyways.  He'll be looking to see how well you do solving a problem from first principles if he does.
+If you're asked a question that you don't know the answer to, it is perfectly alright to say that you don't know.  Trying to bluster your way through answering a question is often the worst thing that you can do.  Your interviewer will pick this up, and he will see through your bull.  If you say that you don't know, he may then ask you to attempt to answer the question anyways.  He'll be looking to see how well you do solving a problem from first principles if he does, and how you might go about researching an answer using online resources such as Google and Stack Overflow.
 
 Your behaviour is very important during an interview.  Always sit up straight - never slouch.  No matter how uncomfortable it is, keep eye contact with your interviewer.  Don't stare off into space or address all of your answers to the desk.  Speak clearly, avoid mumbling.  Mind your language, and avoid swearing.  If there is any disagreement between yourself and the interviewer, be polite about it.  Don't get angry, and don't get defensive.  And if you're struggling to think, take a moment to compose yourself, perhaps by taking a sip of water.
 

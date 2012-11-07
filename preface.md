@@ -1,7 +1,7 @@
 ---
 layout: book-Getting-Hired
 title: Preface
-prev: '<a href="index.html">Prev: Getting Hired</a>'
+prev: '<a href="foreword.html">Prev: Foreword</a>'
 next: '<a href="introduction.html">Next: Introduction</a>'
 ---
 

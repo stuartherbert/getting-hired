@@ -54,4 +54,4 @@ Now, you're ready.
 
 * Strike up a conversation with anyone who replies to your tweet.  The employer's engineers or managers may contact you from their own Twitter accounts, rather than from the employer's official Twitter account.  You might also get contacted by customers of the employer, and possibly even by rival firms.
 
-Then it's down to you and the quality of what you've put online.  The best advice that I can give you here is to simply be yourself, and to keep an open mind.  Even if the employer you've targeted doesn't bite, you might just catch the eye of someone else, and find yourself with a completely new opportunity that you hadn't anticipated when you started.
+Then it's down to you and the quality of what you've put online.  The best advice that I can give you here is to simply be yourself, and to keep an open mind.  Even if the employer you've targetted doesn't bite, you might just catch the eye of someone else, and find yourself with a completely new opportunity that you hadn't anticipated when you started.
