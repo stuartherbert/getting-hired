@@ -108,7 +108,7 @@ foreach ($pages as $page)
 }
 
 $sidebar .= "\n</ol>\n";
-file_put_contents(__DIR__ . "/sidebar/sidebar.html", $sidebar);
+file_put_contents(__DIR__ . "/../_includes/sidebar/sidebar.html", $sidebar);
 
 function findInYaml($key, $source)
 {
