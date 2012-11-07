@@ -2,6 +2,7 @@
     "navDepth": 1,
     "contents": [
         "index",
+        "foreword",
         "preface",
         "introduction",
         "recruitment-process",
@@ -25,6 +26,6 @@
         "authors",
         "copyright",
         "licence",
-	"production-notes"
+        "production-notes"
     ]
 }
