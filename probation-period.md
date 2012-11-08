@@ -2,7 +2,7 @@
 layout: book-Getting-Hired
 title: The Probation Period
 prev: '<a href="job-offer.html">Prev: The Job Offer</a>'
-next: '<a href="become-more-employable.html">Next: Become More Employable</a>'
+next: '<a href="first-day.html">Next: Your First Day At Work</a>'
 ---
 
 # The Probation Period
