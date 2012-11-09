@@ -74,6 +74,6 @@ _Are you doing enough reading to keep up to date?_
 
 Many employers prefer to hire graduates not because of what they've learned at university, but because several years at university gives people the time to figure out who they are, what they want, and how to be a bit more mature.  Most of this happens through the passage of time and osmosis.  There's something you can do to help.
 
-Studying a martial art whilst at university can help greatly with your all-round development.  Many martial arts are as much mental as physical, and they can instill a sense of calmness, quiet confidence and resilience that will help you cope better with everyday life - and with the stress of getting a job.
+Studying a martial art whilst at university can help greatly with your all-round development.  Many martial arts are as much mental as physical, and they can instil a sense of calmness, quiet confidence and resilience that will help you cope better with everyday life - and with the stress of getting a job.
 
 There will be martial art clubs at your university, and you'll probably find that there are other clubs in the local community too.  Go check them out.  It might be one of the most important things you ever do.

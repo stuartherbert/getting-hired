@@ -21,7 +21,7 @@ You can't assume that you should simply turn up at 9am on your first day at your
 
 ## Preparing For Your First Day
 
-_Plan your journey to work._  Your journey to work will probably be at rush hour on the morning; this might be a different experience compared to when you travelled for your interview.  If you've relocated for the job, then you could well be travelling along a different route too, and an unfamiliar one at that.  Make sure you know how you're going to get to your new place of work.
+_Plan your journey to work._  Your journey to work will probably be at rush hour on the morning; this might be a different experience compared to when you traveled for your interview.  If you've relocated for the job, then you could well be travelling along a different route too, and an unfamiliar one at that.  Make sure you know how you're going to get to your new place of work.
 
 _Plan your journey home from work._  This is so easily overlooked!  Is there a particular train or bus that you need to catch?  What time do you need to leave the office to catch them?  If you're commuting a long distance by public transport, be careful about staying too late at work or you might miss your transport home.
 

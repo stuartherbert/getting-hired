@@ -7,7 +7,7 @@ next: '<a href="production-notes.html">Next: Production Notes</a>'
 
 # Licence
 
-This book is licenced under the [Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales licence](http://creativecommons.org/licenses/by-nc-sa/2.0/uk/).  This is a human-readable summary of the [the full licence](http://creativecommons.org/licenses/by-nc-sa/2.0/uk/legalcode).
+This book is licenced under the [Creative Commons Attribution-NonCommercial-ShareAlike 2.0 UK: England & Wales licence](http://creativecommons.org/licenses/by-nc-sa/2.0/uk/).  This is a human-readable summary of [the full licence](http://creativecommons.org/licenses/by-nc-sa/2.0/uk/legalcode).
 
 _You are free:_
 
@@ -18,7 +18,7 @@ _under the following conditions:_
 
 * _Attribution:_ You must give the original author credit.
 * _Non-Commercial:_ You may not use this work for commercial purposes.
-* _Share Alike:_ If you alter, transform, or build upon this work, you may distrbute the resulting work only under a licence identical to this one.
+* _Share Alike:_ If you alter, transform, or build upon this work, you may distribute the resulting work only under a licence identical to this one.
 
 _with the understanding that:_
 

@@ -51,7 +51,7 @@ You might be invited to the employer's office for a formal interview.  Increasin
 
 Many employers allow candidates to bring along books and other helpful resources to an on-site assessment.  It's a good idea to confirm this with an employer in advance, and if it is allowed, take full advantage of it.  Some employers do insist on "closed book"-type assessments, but most employers understand that these type of assessments may not be a fair judge of what you can do.
 
-Unless agreed in advance with the employer, you should always dress smartly for any on-site interview.  That means suit, shirt and matching tie.  Make sure that your shirt is ironed, and that your shoes are clean.  Shower, wash your hair, and clean your teeth.  Use deodorant.  Consider shaving if you don't wear a full beard or mustache.  You might benefit from a haircut too if your hair is getting untidy.
+Unless agreed in advance with the employer, you should always dress smartly for any on-site interview.  That means suit, shirt and matching tie.  Make sure that your shirt is ironed, and that your shoes are clean.  Shower, wash your hair, and clean your teeth.  Use deodorant.  Consider shaving if you don't wear a full beard or moustache.  You might benefit from a haircut too if your hair is getting untidy.
 
 A scruffy and smelly appearance might not cost you the job, but it will probably make a negative impression.  You always want to make a positive first impression, as this sets the scene for how the employer thinks during the rest of your interview and assessment.
 

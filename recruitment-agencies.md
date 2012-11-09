@@ -58,7 +58,7 @@ The one exception to the rule is when an agency has an exclusive contract with a
 
 From an employer's point of view, employers generally do not like agencies who send them unsolicited or inappropriate applications (known as 'wallpapering CVs').  Once an agency has done this with your CV, it can be very difficult for you to get those employers to look at your CV, because the employer hasn't agreed payment terms with the agency, and doesn't want the hassle of an aggressive agency trying to invoice for money that the employer hasn't agreed to pay.
 
-My advice is to deal with any agency on a advert-by-advert basis, keeping track of which firms you have applied to through which agency.  Always ask the agency if they are a 'preferred supplier' for the employer you are applying to (and ask them via email to make sure you've got a record of their answer).
+My advice is to deal with any agency on an advert-by-advert basis, keeping track of which firms you have applied to through which agency.  Always ask the agency if they are a 'preferred supplier' for the employer you are applying to (and ask them via email to make sure you've got a record of their answer).
 
 If the agency is a preferred supplier, that means that they have already agreed payment terms with the employer, and the employer will consider your application.  You should also phone or email the employer directly to check that the agency is indeed a preferred supplier before you apply, just in case the agency is not being honest with you.
 
