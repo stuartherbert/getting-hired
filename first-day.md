@@ -49,4 +49,4 @@ Employers expect you to turn up on time, work hard, learn quickly, and deliver r
 
 One day, it'll be time to do it all over again, when you move on to your next job somewhere else.  When that happens, hopefully you'll find this advice about the recruitment process to be just as useful.
 
-Whether you're about to apply for your first full-time job, or whether you're about to switch jobs for the first time, the more employable you are, the greater your chances are of getting a job.  Part 2 of this book contains some advice which will help you with that.
+Whether you're about to apply for your first full-time job, or whether you're about to switch jobs for the first time, the more employable you are, the greater your chances are of getting a job.  The next few chapters of this book contains some advice which will help you with that.
