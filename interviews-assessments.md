@@ -23,7 +23,7 @@ There are some firms (normally the larger tech giants) who will deliberately use
 
 Some employers will ask you to complete an online assessment.  This might be a programming test.  It might be a psychological test.
 
-To prepare for these, make sure that you've set aside sufficient time to complete them, and that you have somewhere quiet to work, with a reliable broadband connection!)  If the employer's deadline for completing the test seems unreasonable, or if it's one you know you cannot meet, it's perfectly alright to discuss this with the employer first.  Some employers will reschedule the test to accommodate you.
+To prepare for these, make sure that you've set aside sufficient time to complete them, and that you have somewhere quiet to work, with a reliable broadband connection!  If the employer's deadline for completing the test seems unreasonable, or if it's one you know you cannot meet, it's perfectly alright to discuss this with the employer first.  Some employers will reschedule the test to accommodate you.
 
 There may be a practice question that you can do first, to help you get used to being tested, and to become familiar with the online testing system that the employer is using.  If the employer doesn't explicitly tell you about this, always remember to ask about it.
 

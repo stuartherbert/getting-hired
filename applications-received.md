@@ -21,7 +21,7 @@ There can sometimes be lengthy delays between a firm receiving an application fo
 
 * There may be a closing date for applications; if so, the firm might be waiting until the deadline has passed before it starts processing applications.
 * The director or manager who will be looking at applications may be away (on holiday, unwell, or an unexpected absence such as a funeral).
-* The director or manager is too busy with their normal duties to fit in any recruitment activity right now. (This is happens a lot!)
+* The director or manager is too busy with their normal duties to fit in any recruitment activity right now. (This happens a lot!)
 
 There's also always the possibility that they simply hate doing recruitment work, and are doing their best to put it off as long as they can.  This is quite common in our industry, where people would rather be coding than doing anything else!
 
