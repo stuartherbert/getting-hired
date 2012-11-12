@@ -11,7 +11,7 @@ Once an employer receives an application from a candidate, he needs to start pro
 
 ## Who Reads Your Application First?
 
-Some employers have a HR person or team to look after the applications that have been received.  (HR is Human Resources. These are the professionals who look after employment and staffing at many firms).  In other firms, especially smaller ones, one of the company directors may run recruitment, or each Head of Department may be responsible for his or her own recruitment efforts.  They may or may not be assisted by an admin person.
+Some employers have a HR person or team to look after the applications that have been received.  (HR is Human Resources. These are the professionals who look after employment and staffing at many firms.)  In other firms, especially smaller ones, one of the company directors may run recruitment, or each Head of Department may be responsible for his or her own recruitment efforts.  They may or may not be assisted by an admin person.
 
 You cannot assume that the first person who looks at your application is a technical person, i.e. someone who will understand what you mean when you say that you've used Git or Subversion.
 

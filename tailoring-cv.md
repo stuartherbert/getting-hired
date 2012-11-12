@@ -96,7 +96,7 @@ _You probably don't need to mention your GCSE results at all._  As with A levels
 
 Finally, more and more employers will bin a CV that contains no computing experience outside of what you've studied at school and at university.  It's very difficult for a university course alone to bring you up to the minimum standard that you need to hold down even a junior programmer's job these days, and many university courses teach research subjects that are difficult to apply in your average firm.  Even practical courses specifically geared for industry aren't enough, because through your course alone you simply won't have clocked up enough programming hours.
 
-In this day and age of opportunity, there really is no excuse for submitting a CV that contains no outside computing experience at all.  You need to be doing way more than just your coursework if you want to be ready to join the computing industry after you graduate.  I'll expand on this a lot more in Part 2 of this book.
+In this day and age of opportunity, there really is no excuse for submitting a CV that contains no outside computing experience at all.  You need to be doing way more than just your coursework if you want to be ready to join the computing industry after you graduate.  I'll expand on this a lot more [later on in this book](become-more-employable.html).
 
 ## What About Interests and Hobbies?
 
