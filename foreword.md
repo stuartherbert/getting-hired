@@ -8,7 +8,7 @@ next: '<a href="preface.html">Next: Preface</a>'
 
 It is a real pleasure for me to see this book come to light. Stuart and I have had numerous discussions over the last few years about the subject matter it addresses. Whether that be via Twitter, over drinks at a conference or elsewhere, the result is often the same – wishing digital engineers knew how to impress their potential employers. Stuart has to be given the utmost credit, for turning those thoughts and musings into the text you see before you.
 
-_If you're looking for your first job as a software engineer, you would do very well to adhere to the advise presented._
+_If you're looking for your first job as a software engineer, you would do very well to adhere to the advice presented._
 
 Certainly, if you turned up to one of my interviews having done this level of homework I would be pleasantly surprised, and no doubt after collecting my gaping-jaw from the table, assuming your technical skills were also suitable, you'd likely be offered a post. For me, as an employer for the last thirteen years or so, just being technically good is not enough. The best digital engineers also have a well rounded set of professional and interpersonal skills that are needed to engage with clients and colleagues alike.  The interview process is the first opportunity you have to prove you have those skills to your employer.
 
