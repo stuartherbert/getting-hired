@@ -32,7 +32,7 @@ If the employer doesn't explicitly ask you for a covering letter, submit one any
 
 If you're submitting online, and there's only space to submit your CV, just put your covering letter as the first page of your CV and upload the combined document.  Make sure that the fonts and other styles match first though; poor presentation might mean that your efforts go into the bin unread.
 
-If the employer gives you no opportunity to submit a CV, that's more problematic, and you'll have to be more creative.  Maybe you'll be able to point the employer at your [online portfolio](online-presence.html#build_a_portfolio)?  If so, make sure your portfolio includes your covering letter.  There's normally some way to put a covering letter _somewhere_ for the employer to read it.
+If the employer gives you no opportunity to submit a CV, that's more problematic, and you'll have to be more creative.  Maybe you'll be able to point the employer at your [online portfolio](your-online-presence.html#your_website)?  If so, make sure your portfolio includes your covering letter.  There's normally some way to put a covering letter _somewhere_ for the employer to read it.
 
 Finally, be aware that some employers (and I'm one of them) _expect_ all applications to include a covering letter, and will bin any application that doesn't include one.  That might seem harsh, but it's a great way for an employer to filter out anyone who doesn't pay enough attention to detail, hasn't read the job advert closely enough, and so missed the paragraph stating that all applications must include a covering letter.  Attention to detail is very important in our industry.
 
